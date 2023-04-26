@@ -543,7 +543,7 @@ public class InlineKeyboardUtil {
     }
 
 
-    public static InlineKeyboardMarkup videoForUser(List<VideoLyceum> videoLyceumList) {
+    public static InlineKeyboardMarkup  videoForUser(List<VideoLyceum> videoLyceumList) {
 
         VideoRepository.loadVideoRepository();
 

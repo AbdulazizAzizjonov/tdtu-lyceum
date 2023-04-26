@@ -28,7 +28,7 @@ public class AdminController {
             handleContact(user, message);
         } else if (message.hasPhoto()) {
             handlePhoto(user, message);
-        } else if (message.hasVideo()) {
+        }   else if (message.hasVideo()) {
             handleVideo(user, message);
         }
     }

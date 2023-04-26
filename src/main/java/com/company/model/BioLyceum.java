@@ -8,10 +8,12 @@ import lombok.*;
 @AllArgsConstructor
 @NoArgsConstructor
 public class BioLyceum {
+
     private Integer id;
     private Integer lyceumId;
     private String description;
     private String image;
+
     private boolean deleted=false;
 
     public BioLyceum(Integer lyceumId, String image, String description) {

@@ -29,7 +29,7 @@ public class StudentP {
     private String mathName;
     private String mathSurname;
     private String mathPhone;
-    private String pImage;
+    private String pImage   ;
     private String image;
     private String yotoqxona;
     private boolean deleted=false;

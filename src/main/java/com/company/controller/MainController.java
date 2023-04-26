@@ -67,7 +67,7 @@ public class MainController {
                                 "Maktab raqami:   %s\n\n" +
                                 "Passport seriasi:   %s\n\n" +
                                 "Telefon raqami:   %s\n\n" +
-                                "Yotoqxona xizmati:   %s\n\n" +
+                                "Yotoqxona xizmati:   %s\n\n"   +
                                 "Otasining ismi:  %s\n\n" +
                                 "Otasining famiylasi: %s\n\n" +
                                 "Otasining telefon raqami:  %s\n\n" +

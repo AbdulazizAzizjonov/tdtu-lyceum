@@ -11,7 +11,6 @@ import java.util.List;
 public class KeyboardUtil {
 
 
-
     public static ReplyKeyboard shaharMurkap(){
         KeyboardButton toshkentBut = new KeyboardButton("Toshkent shahar");
         KeyboardButton toshkentVilBut = new KeyboardButton("Toshkent viloyati");
@@ -38,6 +37,7 @@ public class KeyboardUtil {
         return getMarkup(rowList);
 
     }
+
 
 
     public static ReplyKeyboard ToshkentMurkap(){
